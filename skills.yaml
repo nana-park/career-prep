@@ -31,3 +31,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 목표 직무별 포트폴리오 사례, 증명 전략과 제작 브리프 관리
+  - name: career-time-manager
+    path: career-time-manager
+    owner_team: career_consulting
+    team_role: member
+    purpose: 실제 가용시간과 전형 마감을 반영한 일간 우선순위와 이월 관리

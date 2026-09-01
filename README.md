@@ -71,6 +71,11 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 | `resume-career-document-editor` | 기본서류 기준본, 공고별 파생본, 문서 간 사실·수치와 제출 버전 관리 |
 | `interview-strategy-coach` | 질문은행 준비도, 근거 기반 답변, 꼬리질문과 실전 리허설 관리 |
 | `portfolio-strategy-builder` | 목표 직무별 포트폴리오 사례 선정, 증명 전략, 목업·Figma 제작 브리프 관리 |
+| `career-time-manager` | 실제 가용시간, 지원 마감과 작업 난도를 반영한 일간 우선순위·이월 관리 |
+
+#### 면접 준비 셀 — 추가 예정 팀원
+
+- 현재 `interview-strategy-coach`와 함께 면접 준비를 담당할 `ai-trend-interview-researcher`를 추가할 예정이다. 스마트폰 캡처를 정리한 Notion 소스를 바탕으로 최신 AI 개념과 흐름을 검증하고, PM 면접에서 설명할 제품 영향·트레이드오프·반론·적용 사례로 전환한다. Notion 정리 구조가 준비된 뒤 스킬과 소스 연결을 확정한다.
 
 ### 팀 간 협업
 

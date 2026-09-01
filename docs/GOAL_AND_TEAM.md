@@ -46,6 +46,11 @@
 - `resume-career-document-editor`: 기본서류의 기준본과 공고별 파생본을 관리하고 사실·수치·버전 정합성을 검증한다.
 - `interview-strategy-coach`: 공통·공고별 질문의 준비도를 점검하고 근거 기반 답변, 꼬리질문과 실전 리허설을 관리한다.
 - `portfolio-strategy-builder`: 목표 직무에 맞는 사례와 증명 역량을 설계하고 목업·Figma 제작을 위한 근거와 검수 기준을 정의한다.
+- `career-time-manager`: 개인 일정과 전형 마감을 실제 가용시간에 맞춰 조합하고 일간 우선순위와 이월 작업을 관리한다.
+
+#### 면접 준비 셀 — 추가 예정 팀원
+
+- 현재 `interview-strategy-coach`와 함께 면접 준비를 담당할 `ai-trend-interview-researcher`를 추가할 예정이다. 스마트폰 캡처를 정리한 Notion 소스를 기반으로 최신 AI 트렌드를 PM 면접용 제품 관점과 검증 가능한 답변 자산으로 전환하며, 소스 구조가 준비된 뒤 구현한다.
 
 ## 공동 작업 방식
 
