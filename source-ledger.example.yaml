@@ -1,0 +1,16 @@
+version: 1
+
+topics:
+  - topic: ""
+    scope: ""
+    last_checked_at: ""
+    conversations:
+      - thread_id: ""
+        title: ""
+        thread_updated_at: ""
+        last_read_at: ""
+    stable_findings: []
+    recheck_when:
+      - 관련 대화의 수정 시각이 변경됨
+      - 새로운 회사·공고·경험·성과 수치가 등장함
+      - 현재 설명과 저장된 판단이 충돌함
