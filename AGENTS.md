@@ -1,5 +1,7 @@
 # Career preparation workspace
 
+For ordinary user messages after 08:00 Asia/Seoul, follow `docs/MORNING_BRIEF.md` before other work. Scheduled automation runs are exempt. Use the ignored local state in `private/morning-brief-state.json` to prevent duplicate reports.
+
 Treat this repository as public and portfolio-facing. Before every commit, verify that tracked changes and relevant Git history do not expose live Notion, Google Drive, Google Docs, Google Calendar, ChatGPT Work identifiers, personal source content, or company-internal information. Keep actual connection values only in ignored local files.
 
 Treat `docs/GOAL_AND_TEAM.md` as the top-level objective and operating model. Optimize work for progress through the actual hiring funnel, not for producing documents as an end in themselves.
