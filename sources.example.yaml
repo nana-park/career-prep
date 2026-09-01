@@ -29,6 +29,11 @@ notion:
     url: ""
     use_for:
       - 지원 현황 확인
+  essay_archive:
+    url: ""
+    use_for:
+      - 과거 자기소개서의 개인 후킹 서사와 표현 자산 탐색
+      - 공고별 제출 문항과 결과 비교
   schedule:
     url: ""
     use_for:

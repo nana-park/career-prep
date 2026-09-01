@@ -10,7 +10,7 @@ skills:
     path: pm-drama-upgrade-mentor
     owner_team: career_consulting
     team_role: member
-    purpose: 공고 맞춤 자소서 컨셉과 근거 고도화
+    purpose: 공고 맞춤 자소서 컨셉, 개인 후킹 서사와 근거 고도화
   - name: job-posting-signal-analyzer
     path: job-posting-signal-analyzer
     owner_team: career_consulting
