@@ -26,3 +26,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 질문은행 준비도, 근거 답변과 실전 면접 리허설 관리
+  - name: portfolio-strategy-builder
+    path: portfolio-strategy-builder
+    owner_team: career_consulting
+    team_role: member
+    purpose: 목표 직무별 포트폴리오 사례, 증명 전략과 제작 브리프 관리

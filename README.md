@@ -70,6 +70,7 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 | `pm-drama-upgrade-mentor` | 특정 공고·문항의 핵심 주장, 개인 후킹 서사, 지원서 컨셉과 설득력 고도화 |
 | `resume-career-document-editor` | 기본서류 기준본, 공고별 파생본, 문서 간 사실·수치와 제출 버전 관리 |
 | `interview-strategy-coach` | 질문은행 준비도, 근거 기반 답변, 꼬리질문과 실전 리허설 관리 |
+| `portfolio-strategy-builder` | 목표 직무별 포트폴리오 사례 선정, 증명 전략, 목업·Figma 제작 브리프 관리 |
 
 ### 팀 간 협업
 
