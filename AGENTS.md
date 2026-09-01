@@ -6,3 +6,4 @@ Before using a career-preparation skill, route the request with [docs/SKILL_ROUT
 
 Do not copy private job descriptions, mentoring transcripts, experience records, personal data, or company-internal documents into this repository. Treat those artifacts as read-only sources and store only generalized workflow rules here.
 
+Before career-preparation work that depends on user-specific sources, read `sources.local.yaml` when it exists. Use `sources.example.yaml` only as the schema; it does not contain live source identifiers. Do not expose or commit values from `sources.local.yaml`.

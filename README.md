@@ -15,6 +15,7 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 - [기본 원칙](./docs/PRINCIPLES.md)
 - [스킬 라우팅](./docs/SKILL_ROUTING.md)
 - [스킬 의존성](./skills.yaml)
+- [소스 연결 설정 예시](./sources.example.yaml)
 
 ## 사용 방식
 
@@ -23,3 +24,6 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 3. 경험 사실이 필요하면 Drive 원문을 읽고, 공고 분석이면 Notion DB를 읽습니다.
 4. 원본과 개인 데이터는 이 저장소에 복사하지 않습니다.
 
+## 로컬 소스 연결
+
+`sources.example.yaml`을 구조 기준으로 사용하고, 실제 URL과 프로젝트 식별자는 Git에서 제외되는 `sources.local.yaml`에 둡니다. 작업을 시작할 때 `sources.local.yaml`이 있으면 이 파일을 우선 읽습니다.

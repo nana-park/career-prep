@@ -3,4 +3,4 @@ Thumbs.db
 *.tmp
 private/
 sources/
-
+sources.local.yaml
