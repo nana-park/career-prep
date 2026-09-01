@@ -1,5 +1,7 @@
 # Career preparation workspace
 
+Treat `docs/GOAL_AND_TEAM.md` as the top-level objective and operating model. Optimize work for progress through the actual hiring funnel, not for producing documents as an end in themselves.
+
 Read and follow [docs/PRINCIPLES.md](docs/PRINCIPLES.md) for career-preparation work.
 
 Before using a career-preparation skill, route the request with [docs/SKILL_ROUTING.md](docs/SKILL_ROUTING.md). Load only the skill needed for the current decision. Skills are maintained in the separate `nana-park/skills` repository and listed in [skills.yaml](skills.yaml).
