@@ -99,6 +99,7 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 - [경험 소스 조회 규칙](./docs/EXPERIENCE_SOURCES.md)
 - [아침 첫 채팅 브리핑](./docs/MORNING_BRIEF.md)
 - [하루 업무 마감](./docs/DAILY_CLOSE.md)
+- [주간 채용전략 리뷰](./docs/WEEKLY_STRATEGY_REVIEW.md)
 - [소스 원장 예시](./source-ledger.example.yaml)
 
 ## 로컬 소스 연결
