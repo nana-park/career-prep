@@ -74,6 +74,11 @@ notion:
     use_for:
       - 신규 공고와 변경 공고 분석
       - 어필 키워드 변화 추적
+  ai_trend_archive:
+    url: ""
+    use_for:
+      - 스마트폰 캡처 기반 AI·IT·로봇·모빌리티 자료 정리
+      - 면접용 최신 트렌드와 제품 시사점 축적
 
 chatgpt_work:
   application_customization:

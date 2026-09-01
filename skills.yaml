@@ -51,3 +51,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 총보상·협상 조건과 장기 커리어 가치·리스크 평가
+  - name: mobile-capture-extractor
+    path: mobile-capture-extractor
+    owner_team: career_consulting
+    team_role: member
+    purpose: pm-job 프로필 기반 스마트폰 캡처 추출과 AI·IT·로봇·모빌리티 지식 자산화

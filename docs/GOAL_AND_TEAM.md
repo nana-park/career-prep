@@ -50,10 +50,11 @@
 - `application-pipeline-manager`: 공고 검토부터 최종 결과까지 지원 단계, 제출본, 일정, 다음 행동과 결과 데이터를 일관되게 관리한다.
 - `company-role-researcher`: 회사·조직·제품·시장 근거를 목표 직무의 과제, 지원동기, 면접 가설과 역질문으로 전환한다.
 - `offer-decision-advisor`: 오퍼의 총보상과 협상 조건뿐 아니라 역할 범위, 역량 축적, 다음 이직 선택지와 지속 가능성을 함께 평가한다.
+- `mobile-capture-extractor` (`pm-job` 프로필): 스마트폰 캡처의 원문·출처를 추출하고 AI·IT·로봇·모빌리티 시그널을 취준용 기술 지식 자산으로 구조화한다.
 
-#### 면접 준비 셀 — 추가 예정 팀원
+#### 면접 준비 셀
 
-- 현재 `interview-strategy-coach`와 함께 면접 준비를 담당할 `ai-trend-interview-researcher`를 추가할 예정이다. 스마트폰 캡처를 정리한 Notion 소스를 기반으로 최신 AI 트렌드를 PM 면접용 제품 관점과 검증 가능한 답변 자산으로 전환하며, 소스 구조가 준비된 뒤 구현한다.
+- `mobile-capture-extractor`의 `pm-job` 프로필이 최신 기술·산업 근거를 관리하고, `interview-strategy-coach`가 필요한 근거를 질문 리허설과 답변 전략에 연결한다.
 
 ## 공동 작업 방식
 

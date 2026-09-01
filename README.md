@@ -75,10 +75,11 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 | `application-pipeline-manager` | 공고 검토부터 최종 결과까지 전형 단계, 제출본, 마감·후속 행동과 전환 데이터 관리 |
 | `company-role-researcher` | 회사·조직·제품·경쟁 환경을 근거로 직무 과제, 지원동기와 면접 가설·역질문 설계 |
 | `offer-decision-advisor` | 현재 보상 대비 총보상·협상 조건과 2~3년의 커리어 가치·리스크를 함께 평가 |
+| `mobile-capture-extractor` (`pm-job` 프로필) | 스마트폰 캡처의 원문·출처를 추출하고 AI·IT·로봇·모빌리티 지식 자산으로 구조화 |
 
-#### 면접 준비 셀 — 추가 예정 팀원
+#### 면접 준비 셀
 
-- 현재 `interview-strategy-coach`와 함께 면접 준비를 담당할 `ai-trend-interview-researcher`를 추가할 예정이다. 스마트폰 캡처를 정리한 Notion 소스를 바탕으로 최신 AI 개념과 흐름을 검증하고, PM 면접에서 설명할 제품 영향·트레이드오프·반론·적용 사례로 전환한다. Notion 정리 구조가 준비된 뒤 스킬과 소스 연결을 확정한다.
+- `mobile-capture-extractor`의 `pm-job` 프로필이 스마트폰 캡처를 취준용 기술 지식 자산으로 정리하고, `interview-strategy-coach`가 그중 필요한 근거를 면접 답변·반론·적용 사례로 전환한다.
 
 ### 팀 간 협업
 
