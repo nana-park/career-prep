@@ -28,6 +28,13 @@ google_drive:
     use_for:
       - 공통 면접 질문의 답변 작성 여부와 품질 확인
       - 핵심 경험별 What, How, Why 꼬리질문 점검
+  company_research_document:
+    url: ""
+    prompt_tab: ""
+    company_tab_rule: "one_company_per_top_level_tab"
+    use_for:
+      - 회사별 통합 조사 보고서 작성과 최신화
+      - 공통 조사 프롬프트와 기존 보고서 구조 참고
 
 google_calendar:
   primary:
