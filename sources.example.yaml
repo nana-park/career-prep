@@ -6,6 +6,19 @@ google_drive:
     use_for:
       - 폴더 구조와 취업준비 자료 탐색
       - 경력과 프로젝트 원본 확인
+  experience_index:
+    parent: workspace_folder
+    folder_name: ""
+    use_for:
+      - 활용 가능한 경험과 프로젝트의 1차 탐색
+      - 경험별 문제, 역할, 판단, 성과와 관련 원본 위치 확인
+    authority: navigation_index
+  experience_originals:
+    parent: workspace_folder
+    use_for:
+      - 선택한 경험의 사실과 세부 맥락 검증
+      - 수치, 기간, 본인 기여, 기술·운영 제약과 산출물 확인
+    authority: factual_source
   mentorship_reference:
     url: ""
     use_for:
