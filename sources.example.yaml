@@ -10,6 +10,19 @@ google_drive:
     url: ""
     use_for:
       - 멘토의 질문 방식과 판단 기준 분석
+  interview_question_bank:
+    url: ""
+    use_for:
+      - 공통 면접 질문의 답변 작성 여부와 품질 확인
+      - 핵심 경험별 What, How, Why 꼬리질문 점검
+
+google_calendar:
+  primary:
+    calendar_id: "primary"
+    privacy_mode: availability_only
+    use_for:
+      - 개인 일정의 busy 시간을 반영한 취준 가용시간 산정
+      - 지원 마감과 면접 준비 일정의 충돌 확인
 
 notion:
   application_status:
@@ -20,6 +33,11 @@ notion:
     url: ""
     use_for:
       - 지원 일정과 마감 확인
+  availability_calendar:
+    url: ""
+    use_for:
+      - 개인 할 일과 프로젝트를 반영한 일간 취준 가능량 산정
+      - 중요도, 긴급도와 진행 상태를 고려한 우선순위 조정
   job_postings:
     url: ""
     use_for:
