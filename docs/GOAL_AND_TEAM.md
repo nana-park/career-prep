@@ -44,6 +44,7 @@
 - `job-posting-signal-analyzer`: 여러 공고의 반복 요구역량과 시장 변화를 분석한다.
 - `pm-drama-upgrade-mentor`: 특정 공고와 문항에 맞는 핵심 주장과 지원서 컨셉을 고도화한다.
 - `resume-career-document-editor`: 기본서류의 기준본과 공고별 파생본을 관리하고 사실·수치·버전 정합성을 검증한다.
+- `interview-strategy-coach`: 공통·공고별 질문의 준비도를 점검하고 근거 기반 답변, 꼬리질문과 실전 리허설을 관리한다.
 
 ## 공동 작업 방식
 

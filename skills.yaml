@@ -21,3 +21,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 기본서류 기준본, 공고별 파생본과 제출 버전 관리
+  - name: interview-strategy-coach
+    path: interview-strategy-coach
+    owner_team: career_consulting
+    team_role: member
+    purpose: 질문은행 준비도, 근거 답변과 실전 면접 리허설 관리
