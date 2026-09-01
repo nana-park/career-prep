@@ -1,0 +1,13 @@
+version: 1
+source_repository: https://github.com/nana-park/skills
+skills:
+  - name: pm-experience-mentor
+    path: pm-experience-mentor
+    purpose: 경험 발굴과 전략적 재해석
+  - name: pm-drama-upgrade-mentor
+    path: pm-drama-upgrade-mentor
+    purpose: 공고 맞춤 자소서 컨셉과 근거 고도화
+  - name: job-posting-signal-analyzer
+    path: job-posting-signal-analyzer
+    purpose: 공고 시장 시그널과 어필 키워드 분석
+
