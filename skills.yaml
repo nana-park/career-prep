@@ -41,3 +41,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 전형 단계, 제출본, 마감·후속 행동과 결과 데이터 관리
+  - name: company-role-researcher
+    path: company-role-researcher
+    owner_team: career_consulting
+    team_role: member
+    purpose: 회사·제품·직무 근거를 지원동기와 면접 가설·역질문으로 전환
