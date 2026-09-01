@@ -46,3 +46,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 회사·제품·직무 근거를 지원동기와 면접 가설·역질문으로 전환
+  - name: offer-decision-advisor
+    path: offer-decision-advisor
+    owner_team: career_consulting
+    team_role: member
+    purpose: 총보상·협상 조건과 장기 커리어 가치·리스크 평가

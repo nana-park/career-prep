@@ -1,5 +1,11 @@
 version: 1
 
+career_profile:
+  current_compensation:
+    currency: ""
+    annual_base_salary: null
+    scope_note: ""
+
 google_drive:
   workspace_folder:
     url: ""
