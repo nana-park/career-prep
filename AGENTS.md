@@ -2,6 +2,8 @@
 
 For ordinary user messages after 08:00 Asia/Seoul, follow `docs/MORNING_BRIEF.md` before other work. Scheduled automation runs are exempt. Use the ignored local state in `private/morning-brief-state.json` to prevent duplicate reports.
 
+When the user clearly ends the current career-preparation workday in natural language, follow `docs/DAILY_CLOSE.md`. Do not require an exact closing phrase. Use the ignored local state in `private/daily-close-state.json` and feed its carryover into the next morning brief.
+
 Treat this repository as public and portfolio-facing. Before every commit, verify that tracked changes and relevant Git history do not expose live Notion, Google Drive, Google Docs, Google Calendar, ChatGPT Work identifiers, personal source content, or company-internal information. Keep actual connection values only in ignored local files.
 
 Treat `docs/GOAL_AND_TEAM.md` as the top-level objective and operating model. Optimize work for progress through the actual hiring funnel, not for producing documents as an end in themselves.
