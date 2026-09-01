@@ -72,6 +72,7 @@ AI PM 취업준비의 운영 원칙과 반복 워크플로를 관리하는 저�
 | `interview-strategy-coach` | 질문은행 준비도, 근거 기반 답변, 꼬리질문과 실전 리허설 관리 |
 | `portfolio-strategy-builder` | 목표 직무별 포트폴리오 사례 선정, 증명 전략, 목업·Figma 제작 브리프 관리 |
 | `career-time-manager` | 실제 가용시간, 지원 마감과 작업 난도를 반영한 일간 우선순위·이월 관리 |
+| `application-pipeline-manager` | 공고 검토부터 최종 결과까지 전형 단계, 제출본, 마감·후속 행동과 전환 데이터 관리 |
 
 #### 면접 준비 셀 — 추가 예정 팀원
 
