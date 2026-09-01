@@ -16,3 +16,8 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 공고 시장 시그널과 어필 키워드 분석
+  - name: resume-career-document-editor
+    path: resume-career-document-editor
+    owner_team: career_consulting
+    team_role: member
+    purpose: 기본서류 기준본, 공고별 파생본과 제출 버전 관리
