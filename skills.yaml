@@ -6,6 +6,11 @@ skills:
     owner_team: pm
     team_role: member
     purpose: 경험 발굴과 전략적 재해석
+  - name: product-artifact-reconstructor
+    path: product-artifact-reconstructor
+    owner_team: pm
+    team_role: member
+    purpose: 검증된 제품 경험을 익명화된 플로우·구조도·목업·도표로 재구성
   - name: pm-drama-upgrade-mentor
     path: pm-drama-upgrade-mentor
     owner_team: career_consulting
@@ -31,6 +36,11 @@ skills:
     owner_team: career_consulting
     team_role: member
     purpose: 목표 직무별 포트폴리오 사례, 증명 전략과 제작 브리프 관리
+  - name: portfolio-visual-designer
+    path: portfolio-visual-designer
+    owner_team: career_consulting
+    team_role: member
+    purpose: 검증된 전략과 증거 자료를 Figma 포트폴리오로 편집하고 시각 품질 검수
   - name: career-time-manager
     path: career-time-manager
     owner_team: career_consulting
